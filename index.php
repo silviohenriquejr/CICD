@@ -703,8 +703,8 @@
               <div class="info-box">
                 <i class="bx bx-map"></i>
                 <h3>CONTATO</h3>
-                <p>Clique aqui e fale conosco
-                <a href="https://api.whatsapp.com/send?phone=5511943462853&text=Por%20favor%2C%20envie%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20treinamento.">a página inicial da Mozilla</a>.
+                <p>
+                <a target="_black" href="https://api.whatsapp.com/send?phone=5511943462853&text=Por%20favor%2C%20envie%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20treinamento.">Clique aqui e tire suas dúvidas</a>.
                 </p>
               </div>
             </div>
