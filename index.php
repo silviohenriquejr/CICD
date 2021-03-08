@@ -54,8 +54,6 @@
           <li><a class="nav-link scrollto" href="#about">JAVA</a></li>
           <li><a class="nav-link scrollto" href="#services">GIT</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">HEROKU</a></li>
-          <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
               <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
@@ -84,10 +82,11 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container" data-aos="fade-up" data-aos-delay="150">
-      <h1>Bem Vindo ao Programa de Desenvolvimento DOTI</h1>
+      <h1>Bem Vindo!</h1>
+      <h1>Programa de Desenvolvimento DOTI</h1>
       <h2>Acompanhe aqui a evolução da Turma 15B!</h2>
       <div class="d-flex">
-        <a href="#about" class="btn-get-started scrollto">Get Started</a>
+        <a href="#about" class="btn-get-started scrollto">Diário</a>
         <a href="zoom.us/j/96629485591" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Acompanhe nossas aulas em tempo real</span></a>
       </div>
     </div>
